@@ -1,0 +1,1 @@
+1 rep max calculated with Brzycki formula: $w\frac{36}{37-r}$, where $w$ = weight, $r$ = reps.
